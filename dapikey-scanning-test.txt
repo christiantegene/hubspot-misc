@@ -1,1 +1,1 @@
-b7572480-7b3e-45d2-9865-43f30facb5c9
+https://api.hubapi.com/integrations/v1/<application id>/timeline/event-types?hapikey=b7572480-7b3e-45d2-9865-43f30facb5c9&userId=892137740
