@@ -1,1 +1,1 @@
-https://api.hubapi.com/integrations/v1/<application id>/timeline/event-types?hapikey=077a6013-fefa-4f87-9639-054fd4d6397a&userId=892137740
+https://api.hubapi.com/integrations/v1/<application id>/timeline/event-types?hapikey=3d7276cc-f2c9-4a58-bea5-1c226fe727fb&userId=892137740
