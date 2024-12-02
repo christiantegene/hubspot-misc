@@ -1,1 +1,1 @@
-hapikey=db224e82-457c-47f1-80af-f4a9b3044965
+hapikey=50e09bb0-de0b-45c4-9b94-942c2d90fd40
